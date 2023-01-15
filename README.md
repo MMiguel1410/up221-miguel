@@ -19,4 +19,6 @@ Since the inception on Urban Planning, the concept of space has been utilized to
 # Project Ideas
  
 ## Idea 1
-There are a total of 50+ mobilehome communities in the City of Los Angeles. These communities are typically located within industrial areas of the 
+There are a total of 50+ mobilehome communities in the City of Los Angeles. These communities are typically located within industrial areas of the city which is then reflected through the Healthy Place Index or CalEnviroscreen 4.0. However, some predominately white mobile home communities have higher standards on envrionmental regulation. This Project would analyze the current health index of these communities and compare it with the entho racial composition of the surrounding neighborhood. Creating this relationship could help us understand if the health index of the mobile homes is dependent on the ehtno racial composition of the surrounding neighborhood. 
+
+## Idea 2
